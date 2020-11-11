@@ -4,15 +4,15 @@ header {
       rgba(44, 44, 44, 0.6),
       rgba(44, 44, 44, 0.6)
     ),
-    url("images/profile.png");
+    url("images/apero-bateau-2.jpg");
   background-size: cover;
   height: 550px;
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
   background-attachment: fixed;
-background-position: center;
-background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 h1 {
   font-size: 56px;
@@ -20,7 +20,7 @@ h1 {
 }
 body {
   font-family: Montserrat;
-	margin: 0;
+  margin: 0;
 }
 .about {
   display: flex;
@@ -68,7 +68,7 @@ a {
   padding: 20px;
   width: 70%;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
-	text-align: left;
+  text-align: left;
   display: flex;
   padding-right: 15px;
   padding-left: 15px;
@@ -103,7 +103,7 @@ a {
 
 .progress {
   margin-top: 14px;
-	background: rgba(25, 105, 129, 0.4);
+  background: rgba(25, 105, 129, 0.4);
 }
 
 .progress {
@@ -199,7 +199,6 @@ time {
 .bubble span {
   font-weight: bold;
 }
-
 
 /* MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -313,7 +312,7 @@ time {
 iframe {
   margin-top: 30px;
   margin-bottom: 30px;
-	width: 100%;
+  width: 100%;
 }
 
 form {
@@ -381,4 +380,3 @@ textarea {
   font-size: 16px;
   color: white;
 }
-
